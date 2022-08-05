@@ -1,0 +1,20 @@
+#odin-recipes-logo {
+    width: 400px;
+    height: auto;
+}
+
+.recipe-img {
+    width: 300px;
+    height: auto;
+}
+
+.recipe-title {
+    color: rgb(129, 197, 219);
+    font-size: 50px;
+    font-weight: 100;
+}
+
+body {
+    background-color: lightcyan;
+    font-family: "Courier New", sans-serif;
+}
